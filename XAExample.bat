@@ -1,0 +1,4 @@
+set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin
+
+
+"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\XAExample.jar >>C:\java_development\XAExample.out

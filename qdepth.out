@@ -1,0 +1,51 @@
+Current depth is: 113696
+Current depth is: 113696
+Current depth is: 113696
+Current depth is: 113696
+Current depth is: 113696
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar  1>>C:\java_development\qdepth.out 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+An MQSeries error occurred : Completion code 2 Reason code 2035
+Program Ended.
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+An MQSeries error occurred : Completion code 2 Reason code 2035
+Program Ended.
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+An MQSeries error occurred : Completion code 2 Reason code 2035
+An MQSeries error occurred : Completion code 2 Reason code 2035
+Program Ended.
+Program Ended.
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+An MQSeries error occurred : Completion code 2 Reason code 2035
+Program Ended.
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+An MQSeries error occurred : Completion code 2 Reason code 2035
+Program Ended.
+
+C:\Program Files (x86)\IBM\WebSphere MQ>set path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files (x86)\IBM\WebSphere MQ_1\Java\lib;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Citrix\ICAService\;C:\Program Files (x86)\Citrix\System32\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ_1\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin 
+
+C:\Program Files (x86)\IBM\WebSphere MQ>"C:\Program Files (x86)\Java\jre7\bin\java" -jar C:\java_development\qdepth.jar 
+An MQSeries error occurred : Completion code 2 Reason code 2035
+Program Ended.
